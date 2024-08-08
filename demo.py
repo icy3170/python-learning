@@ -1,5 +1,5 @@
 import random
-#githun upload
+
 a = random.randint(1,999)
 b = int(input('input a number from 1 to 999:'))
 while True:
